@@ -105,7 +105,7 @@ $verified = $row['verified'];
                       <li><h1 class="logo-wrapper"><a href="index.php" class="brand-logo darken-1"><img src="images/materialize-logo.jpg" alt="logo"></a> <span class="logo-text">Logo</span></h1></li>
                     </ul>
                     <ul class="right hide-on-med-and-down">                        
-                        <li><a href="#" class="waves-effect waves-block waves-light"><i class="mdi-editor-attach-money"><?php echo $balance;?></i></a>
+                        <li><a href="#" class="waves-effect waves-block waves-light"><i class="mdi-editor-attach-money"><font size = "4"><?php echo $balance;?></font></i></a>
                         </li>
                     </ul>						
                 </div>
