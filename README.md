@@ -16,7 +16,9 @@ Xampp, text editor and Chrome browser should be installed on your PC.
 This website is built using HTML, CSS, JavaScript, bootstrap for front end and php for backend and AJAX.
 
 **General Instructions:**
+
 i.	This website is meant for two types of users: Admin and customers of the restaurant.
+
 ii.	A user can login as an admin by giving the login credentials as: 
 	Username: root
 	Password: toor
@@ -32,6 +34,8 @@ v.	Every new registered user gets a wallet balance of Rs.2000
 vi.	To make a payment using wallet enter the Card number and CVV given in the database.
 
 **Creators of the website:**
+
 Aditi Bhagwat
+
 Heeral Dedhia
 
