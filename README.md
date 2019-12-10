@@ -17,7 +17,6 @@ This website is built using HTML, CSS, JavaScript, bootstrap for front end and p
 
 **General Instructions:**
 i.	This website is meant for two types of users: Admin and customers of the restaurant.
-
 ii.	A user can login as an admin by giving the login credentials as: 
 	Username: root
 	Password: toor
