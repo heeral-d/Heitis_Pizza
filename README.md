@@ -17,14 +17,19 @@ This website is built using HTML, CSS, JavaScript, bootstrap for front end and p
 
 **General Instructions:**
 i.	This website is meant for two types of users: Admin and customers of the restaurant.
+
 ii.	A user can login as an admin by giving the login credentials as: 
 	Username: root
 	Password: toor
+	
 iii.	A customer can login using the credentials given in the database. For eg.
 	Username: user1
 	Password: pass1
+	
 iv.	Only verified users will be given the Cash on Delivery facility.
+
 v.	Every new registered user gets a wallet balance of Rs.2000
+
 vi.	To make a payment using wallet enter the Card number and CVV given in the database.
 
 **Creators of the website:**
